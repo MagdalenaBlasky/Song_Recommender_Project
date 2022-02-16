@@ -3,10 +3,9 @@
 
 # In[1]:
 
+import Scraped_Billboard_Top_100
 
-import pandas as pd
-
-billboard_100 = pd.read_csv("Data/Scraped_Billboard_Top_100.csv")
+billboard_100 = Scraped_Billboard_Top_100
 
 
 # In[2]:
